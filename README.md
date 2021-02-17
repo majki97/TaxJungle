@@ -1,7 +1,8 @@
 # Project / Motivation: TaxJungle
 Every year some 40k foreigners move to CH and have to choose their place of living, defined by myriads of dimensions: taxes, renting / buying price levels, family preferences & needs like schools, commuting time, etc. We want to help this audience with easy, super intuitive tools and thereby build a relationship with expats that then eventually leads to them becoming customers of BKB or Bank Cler. Starting with taxes through www.taxjungle.ch we want to implement additional data dimensions relevant to choosing the right place to live for people moving to or within CH.
 
-## Demo
+## TaxJungle Demo
+ 
 ![TaxJungle Demo1](demo/Peek1.gif)
 
 ![TaxJungle Demo2](demo/Peek2.gif)
