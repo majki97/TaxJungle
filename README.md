@@ -5,7 +5,7 @@ Every year some 40k foreigners move to CH and have to choose their place of livi
  
 ![TaxJungle Demo1](demo/Peek1.gif)
 
-![TaxJungle Demo2](demo/Peek4.gif)
+![TaxJungle Demo2](demo/peek4.gif)
 
 ![Taxjungle Demo3](demo/Peek3.gif)
 
