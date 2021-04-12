@@ -21,7 +21,7 @@ const BlogPageCreate =()=>{
 
     const articleInputHandler = e => {
         let{name, value}=e.target
-        if (name==='article_category'){
+        if (name === 'article_category'){
             value = parseInt(value)
         }else if(name === 'article_image'){
             value = []
